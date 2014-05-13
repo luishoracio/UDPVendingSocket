@@ -12,7 +12,7 @@ import com.google.gson.JsonSyntaxException;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.text.DecimalFormat;
+
 /**
  *
  * @author luishoracio
