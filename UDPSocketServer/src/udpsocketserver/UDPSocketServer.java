@@ -5,9 +5,6 @@ package udpsocketserver;
  * @author luishoracio
  */
 
-
-import com.google.gson.*;
-import java.util.Arrays;
 import java.io.*;
 import java.net.*;
 import java.util.logging.Level;
