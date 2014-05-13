@@ -1,0 +1,29 @@
+[
+    {
+        "operacion": "6141848283",
+        "saldoRecarga": 241,
+        "saldoSubsidio": 15,
+        "saldoNomina": 30.5,
+        "modoProductoNoVenta": 2,
+        "numeroArticulos": 3,
+        "mdbIdArticulo" : "10,20,1,"
+    },
+    {
+        "operacion": "0000000001",
+        "saldoRecarga": 241.5,
+        "saldoSubsidio": 15,
+        "saldoNomina": 30.5,
+        "modoProductoNoVenta": 2,
+        "numeroArticulos": 3,
+        "mdbIdArticulo" : "10,20,1,"
+    },
+    {
+        "operacion": "0123456789",
+        "saldoRecarga": 241.4,
+        "saldoSubsidio": 15,
+        "saldoNomina": 30.5,
+        "modoProductoNoVenta": 2,
+        "numeroArticulos": 3,
+        "mdbIdArticulo" : "10,20,1,"
+    }
+]
