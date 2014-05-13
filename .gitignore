@@ -8,8 +8,6 @@ nbproject/*
 !nbproject/project.properties
 !nbproject/project.xml
  
-#java specific
-*.class
  
 #general swap/backup files
 *.so
@@ -20,7 +18,6 @@ nbproject/*
 *.DS_Store
 *.lock
 
-*.class
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
